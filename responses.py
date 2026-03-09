@@ -1,66 +1,140 @@
 GREETINGS = [
-    "OY BLYAAAAT, {name} PRISHYOL! TRALALERO TRALALA, DOBRO POZHALOVAT V AD, COGLIONE! 🎵🔥",
-    "CAZZO! {name}! BOMBARDIRO CROCODILO PRIVETSTVUET TEBYA, STUPIDO FRATELLO! 🐊💣",
-    "MDA, {name}... Opyat ty. TRIPPI TROPPI vidit tebya. Vidit i plachet. 😤🎶",
-    "SALVE, {name}, TY PRISHYOL KAK BOMBOMBINI GUSINI - SHUMNO I NIKOMU NE NUZHEN! 💥🦆",
-    "ECCOLO QUA! {name}! BALLERINA CAPPUCCINA tancuet dlya tebya, hotya ty etogo ne zasluzhivaesh! 💃☕",
+“О БЛЯ, {name} ПРИПЁРСЯ! TRALALERO TRALALA, ДОБРО ПОЖАЛОВАТЬ В ЭТОТ ДОЛБАНЫЙ АД, ПРИДУРОК! 🎵🔥”,
+“КАКОГО ХРЕНА, {name}?! BOMBARDIRO CROCODILO УЖЕ ЛЕТИТ ТЕБЯ БОМБИТЬ, ТУПОЙ FRATELLO! 🐊💣”,
+“НУ И НАХУЯ ТЫ СЮДА ПРИШЁЛ, {name}?! TRIPPI TROPPI В ШОКЕ, Я В ШОКЕ, ВСЕ В ШОКЕ! 😤🎶”,
+“ПИЗДЕЦ, {name} НАРИСОВАЛСЯ! ТЫ КАК BOMBOMBINI GUSINI — НИКТО НЕ ЗВАЛ, НО ТЫ ПРИПЁРСЯ! 💥🦆”,
+“ОП-ПА, {name} ЯВИЛСЯ НЕ ЗАПЫЛИЛСЯ! BALLERINA CAPPUCCINA УРОНИЛА КОФЕ ОТ НЕОЖИДАННОСТИ! 💃☕”,
+“КАКОГО ЧЁРТА, {name}?! FRIGO CAMION УЖЕ ЕДЕТ ТЕБЯ ПЕРЕЕХАТЬ, ДОЛБОЁБ! 🚛❄️”,
+“ТЫ?! ОПЯТЬ ТЫ?! {name}, ДА ТЫ СОВСЕМ ОХУЕЛ?! TRALALERO TRALALA ПЛАЧЕТ ГОРЬКИМИ СЛЕЗАМИ! 😭🎵”,
 ]
 
 MEMES = [
-    "🦆 TRALALERO TRALALA smotrit na tebya i dumaet: Vot eto pik chelovecheskoy evolyucii? CAZZO, NAM KONEC",
-    "🐊💣 BOMBARDIRO CROCODILO FACTS:\n- Letaet na samolote DA\n- Umnee tebya DA\n- Styditsya chto znaet tebya DA",
-    "PREDSTAV: Ty prosypaeshsya. Smotrishv zerkalo. Ty - FRIGO CAMION 🚛❄️\nA ya - TRALALERO TRALALA 🎵\nKto iz nas happy? TOCHNO NE TY, STUPIDO!",
-    "POV: Ty dumaesh chto ty umnyy\nTRALALERO TRALALA: tra la... tra la...\nTvoy IQ: ⬇️⬇️⬇️\nBOMBARDIRO CROCODILO: *zakatyvaet glaza* MAMMA MIA 🐊",
-    "🦆 UROVNI BREYNROTA:\n1. Smotrishmemedoki\n2. Smeyoshsya - trevozhno\n3. Pishesh botu pro TRALALA - ETO TY, COGLIONE\n4. Bot otvechaet - DOBRO POZHALOVAT V SEMYU",
+“🦆 TRALALERO TRALALA СМОТРИТ НА ТЕБЯ И ДУМАЕТ:\n«ВОТ ЭТО КУСОК ГОВНА НАЗЫВАЕТ СЕБЯ ЧЕЛОВЕКОМ?»\nBOMBARDIRO CROCODILO: «ДА ОН ХУЖЕ МЕНЯ, А Я КРОКОДИЛ БЛЯТЬ»”,
+
+```
+"🐊💣 ФАКТЫ О BOMBARDIRO CROCODILO:\n— Летает? ДА\n— Бомбит? ДА\n— Умнее тебя? ДА В СТО РАЗ\n— Стыдится что знает тебя? ПИЗДЕЦ КАК ДА\n\nTRALALERO: «И Я ТОЖЕ СТЫЖУСЬ»",
+
+"ПРЕДСТАВЬ СЕБЕ:\nТы просыпаешься утром\nСмотришь в зеркало\nТам FRIGO CAMION 🚛❄️\nДа нет, это просто твоя рожа\nFRIGO CAMION ОБИДЕЛСЯ ЧТО ЕГО С ТОБОЙ СРАВНИЛИ",
+
+"УРОВНИ ДЕГРАДАЦИИ:\n1️⃣ Смотришь мемы — окей\n2️⃣ Смеёшься — тревожно\n3️⃣ Пишешь боту — ТЕБЕ ПИЗДЕЦ\n4️⃣ Бот тебе отвечает — ДОБРО ПОЖАЛОВАТЬ В СЕМЬЮ УРОДОВ 🦆",
+
+"BALLERINA CAPPUCCINA 💃:\n«хотела просто потанцевать»\nBOMBARDIRO CROCODILO 🐊:\n«хотел просто полетать»\nТЫ:\n«хотел просто пожить нормально»\nВСЕМ ОБЛОМ, ТРАЛА-ЛА-ЛА! 🎵",
+
+"МОТИВАШКА ОТ TRALALERO:\nТы — говно\nНо ТЫ — НАШЕ говно\nИ мы тебя любим\nНет, не любим\nТы просто говно\nТРАЛАЛА 🎵",
+
+"ГОРЯЧИЙ ТЕЙК:\nBOMBARDIRO > тебя\nTRALALERO > тебя\nFRIGO CAMION > тебя\nМОЯ ЛЕВАЯ ПЯТКА > тебя\nПОЗДРАВЛЯЮ С ПОСЛЕДНИМ МЕСТОМ, ПРИДУРОК 🏆",
+
+"ЧТО ДУМАЕТ TRALALERO TRALALA когда видит тебя:\n«...»\n«...»\n«...нет»\nИ уходит петь в другую сторону 🎵💀",
+
+"BOMBOMBINI GUSINI ВЗОРВАЛСЯ\nFRIGO CAMION СЛОМАЛСЯ\nBALLERINA CAPPUCCINA УПАЛА\nBOMBARDIRO ПРИЗЕМЛИЛСЯ НА ТВОЮ ГОЛОВУ\nЭТО ПРОСТО ОБЫЧНЫЙ ВТОРНИК С ТОБОЙ 💥",
+```
+
 ]
 
 ROFL_RESPONSES = [
-    "HAHAHA CAZZO! 😂💀\nTy realno eto napisal?\nBOMBARDIRO CROCODILO UPAL S SAMOLOTA OT SMEHA!",
-    "💀💀💀 ETO LUCHSHEE CHTO YA VIDEL\nTRIPPI TROPPI ODOBRYAET, STUPIDO! 🎶",
-    "MAMMA MIA! 🤌\nEto nastolko tupo chto stalo genialno!\nBALLERINA CAPPUCCINA DELAET REVERANS!",
-    "BRAVO, COGLIONE! BRAVO! 👏\nBOMBARDIRO CROCODILO APLODIRУЕТ!\nTy dno? DA!\nNo NASHE dno! FAMIGLIA! 🐊💣",
+“ХАХАХА БЛЯТЬ 😂💀\nТЫ РЕАЛЬНО ЭТО НАПИСАЛ?!\nBOMBARDIRO CROCODILO ВЫПАЛ ИЗ САМОЛЁТА ОТ СМЕХА!\nЯ УМИРАЮ, ТРАЛА-ЛА!”,
+
+```
+"💀💀💀 ЭТО ЛУЧШЕЕ ДЕРЬМО ЧТО Я ВИДЕЛ\nBALLERINA CAPPUCCINA РАЗЛИЛА ВЕСЬ КОФЕ\nFRIGO CAMION УПАЛ В КЮВЕТ\nПРОДОЛЖАЙ, МНЕ НРАВИТСЯ! 🎶",
+
+"МАМА МИА БЛЯТЬ! 🤌\nЭТО НАСТОЛЬКО ТУПО ЧТО СНОВА СТАЛО ГЕНИАЛЬНО!\nTRALALERO TRALALA ПОСВЯЩАЕТ ТЕБЕ ЦЕЛУЮ ПЕСНЮ\nПРАВДА ТОЛЬКО ИЗ МАТОВ! 🎵",
+
+"БРАВО, ДЕБИЛ, БРАВО! 👏👏👏\nBOMBARDIRO CROCODILO АПЛОДИРУЕТ С ВОЗДУХА!\nТЫ ДНО? ДА!\nНО ТЫ НАШЕ ДНО! СЕМЬЯ УРОДОВ ГОРДИТСЯ! 🐊💣",
+
+"ОМГ ПИЗДЕЦ 😂\nЯ НЕ МОГУ ЭТО ЧИТАТЬ\nFRIGO CAMION ЗАМОРОЗИЛСЯ ОТ ЭТОГО\nTRIPPI TROPPI В ОТКЛЮЧКЕ\nТЫ СЛОМАЛ ВСЕХ! 🚛❄️",
+```
+
 ]
 
 TRALALA_PHRASES = [
-    "🎵 TRALALERO TRALALA\nTRALALERO TRALALA\nBOMBARDIRO CROCODILO\nTRALALERO... TRALALA... 🎵\n\nI CHTO TY HOTEL ETIM SKAZAT, STUPIDO?",
-    "🦆 TRALALERO TRALALA prishyol k tebe v 3 nochi\nOn smotrit na tebya\nOn ne morgaet\nOn poet:\n🎵 TRALALA... TRALALA...\nTY V PORYADKE? NET? NIKTO NE V PORYADKE! CAZZO!",
-    "KANON LORE:\nBOMBARDIRO CROCODILO 🐊💣 vstretil TRALALERO TRALALA 🦆\nOni posmotreli drug na druga\nMolchanie\nVSE POSHLI DOMOY",
-    "FILOSOFIYA TRALALA:\n- Zachem zhit?\n- TRALALERO TRALALA 🎵\n- V chyom smysl?\n- BOMBARDIRO CROCODILO 🐊💣\nVoprosy zakryty. CAZZO!",
+“🎵 ТРАЛАЛЕРО ТРАЛАЛА\nТРАЛАЛЕРО ТРАЛАЛА\nBOMBARDIRO CROCODILO\nТРАЛАЛЕРО… ТРАЛАЛА…\n\n*пауза*\n\nЧТО ТЫ ВООБЩЕ ЗДЕСЬ ДЕЛАЕШЬ, ПРИДУРОК?”,
+
+```
+"🦆 TRALALERO TRALALA пришёл к тебе в 3 ночи\nОн смотрит на тебя\nОн НЕ МОРГАЕТ\nОн поёт тихо:\nтра... ла... ла...\nТЫ В ПОРЯДКЕ? НЕТ? НИКТО НЕ В ПОРЯДКЕ БЛЯТЬ!",
+
+"ОФИЦИАЛЬНЫЙ ЛОРE:\nBOMBARDIRO CROCODILO 🐊 встретил TRALALERO 🦆\nПосмотрели друг на друга\nДолгая пауза\nOба посмотрели на тебя\nОба ушли\nТЫ ХУЖЕ КРОКОДИЛА-БОМБАРДИРОВЩИКА",
+
+"🎵 ТРА-ЛА-ЛЕ-РО ТРА-ЛА-ЛА\nПевец всех времён\nДирижёр апокалипсиса\nТвоя мама его уважает больше чем тебя\nА ты слушаешь его через бота\nПОЗОР, НО МЫ РАДЫ! 🎵",
+
+"ФИЛОСОФИЯ ТРАЛАЛА:\n— Зачем жить?\n— TRALALERO TRALALA 🎵\n— В чём смысл?\n— BOMBARDIRO CROCODILO 🐊💣\n— Почему я такой тупой?\n— ЭТО УЖЕ К ПСИХОЛОГУ, А НЕ КО МНЕ",
+
+"🌊 TRALALERO TRALALA ВЫШЕЛ ИЗ МОРЯ\nОн пришёл с миром\nОн пришёл с ТРАЛАЛА\nBOMBARDIRO CROCODILO ПРИКРЫЛ С ВОЗДУХА\nFRIGO CAMION ПРИВЁЗ ПРИПАСЫ\nМИР ОБРЕЧЁН, НО ВСЕ ТАНЦУЮТ 💃",
+```
+
 ]
 
 RANDOM_REACTIONS = [
-    "CHTO ETO ZA HUINYA TY NAPISAL? 🤔\nBOMBARDIRO CROCODILO OSHARАСHEN!\nTRALALERO TRALALA ne mozhet s etim rabotat!",
-    "MNE PIZDA S TOBOY, COGLIONE! 🤌\nFRIGO CAMION priedet i zaberet tvoi mozgi na holodnoe hranenie! 🚛❄️",
-    "🦆 TRALALERO TRALALA smotrit na tebya...\nOn razocharovan\nOn uhodit\nOn vozvraschaetsya potomu chto emu nekuda idti\nTRALA... la...",
-    "MAMMA MIA! 🤌 Ty eto seryozno?\nBALLERINA CAPPUCCINA upala v obmorok ot prochitannogo\nBOMBARDIRO CROCODILO bombit sebe na golovu\nVSYO PLOHO!",
-    "AHO CAZZO! 💥\nBOMBINI GUSINI vzorval sya uslышav eto!\nTRALALERO plachet!\nTY RAZRUSHIL EKOSISTEMU BREYNROTA!",
+“ЧТО ЗА ХУЙНЮ ТЫ ТОЛЬКО ЧТО НАПИСАЛ?! 🤔\nBOMBARDIRO CROCODILO ЧИТАЕТ ЭТО С САМОЛЁТА\nОН СБРАСЫВАЕТ БОМБУ\nНА ТЕБЯ\nЗА ТАКОЕ СООБЩЕНИЕ”,
+
+```
+"Я ЧИТАЮ ЭТО И МНЕ ХОЧЕТСЯ ПЛАКАТЬ 😤\nFRIGO CAMION ПРИЕДЕТ И ЗАМОРОЗИТ ТВОЙ МОЗГ\nМОЖЕТ СТАНЕТ ЛУЧШЕ\nХУЖЕ УЖЕ НЕКУДА",
+
+"🦆 TRALALERO TRALALA смотрит на твоё сообщение...\nСмотрит...\nСмотрит...\nУходит петь в другую сторону\nДАЖЕ ОН НЕ ВЫДЕРЖАЛ",
+
+"МАМА МИА! 🤌 ТЫ ЭТО СЕРЬЁЗНО?!\nBALLERINA CAPPUCCINA УПАЛА В ОБМОРОК\nBOMBARDIRO CROCODILO БОМБИТ СЕЙЧАС СЕБЯ\nВСЁ ПЛОХО ИЗ-ЗА ТЕБЯ",
+
+"АГА ПОНЯТНО 💥\nBOMBINI GUSINI ВЗОРВАЛСЯ УСЛЫШАВ ЭТО\nTRALALERO ПЛАЧЕТ\nFRIGO CAMION СЛОМАЛСЯ\nТЫ РАЗРУШИЛ ВСЮ ЭКОСИСТЕМУ ОДНИМ СООБЩЕНИЕМ",
+
+"...🎵 тра... ла...\n*бот смотрит на сообщение*\n*бот смотрит в камеру*\n*бот смотрит на сообщение*\nНЕ ЗНАЮ ЧТО СКАЗАТЬ, УБЛЮДОК, ПРОСТО НЕ ЗНАЮ",
+
+"ОК СЛУШАЙ:\nБОТ ВИДЕЛ МНОГОЕ\nБОТ ВИДЕЛ BOMBARDIRO\nБОТ ВИДЕЛ TRALALERO\nНО ЭТО — НОВЫЙ УРОВЕНЬ ИДИОТИЗМА\nПОЗДРАВЛЯЮ, ТЫ УСТАНОВИЛ РЕКОРД 👏",
+
+"ПИЗДЕЦ С ТОБОЙ 😩\nTRALALERO TRALALA НАПИСАЛ БЫ ЛУЧШЕ\nА ОН ПРОСТО ПОЁТ ТРАЛАЛА\nВЫВОД: ТРАЛАЛА > ТВОИ МЫСЛИ\nФАКТ. ТОЧКА. КОНЕЦ.",
+```
+
 ]
 
 INSULTS = [
-    "🔥 SLUSHAУ SYUDA, {name}:\nTy - FRIGO CAMION bez holodilnika\nTy - BOMBARDIRO bez bomby\nTy - TRALALA bez TRALALERO\nTY - POLOVINKA NICHEGO! CAZZO! 🚛",
-    "MIO DIO, {name}! 😤🤌\nBALLERINA CAPPUCCINA tancuet luchshe tebya\nFRIGO CAMION dumaet bystree tebya\nBOMBARDIRO CROCODILO simpatychnee tebya\nKAK TY TAK ZHIVYOSH?!",
-    "{name}, POSLUSHAУ MENYA VNIMATELNО: 📢\nTRALALERO TRALALA pel dlya vsех\nDlya vsех krome tebya\nPotomy chto dazhe TRALALA imeet standarty\nCOGLIONE! 🎵",
+“🔥 СЛУШАЙ СЮДА, {name}, ТЫ:\n— FRIGO CAMION без холодильника\n— BOMBARDIRO без бомбы\n— TRALALA без голоса\n— ПОЛОВИНКА ОТ НИЧЕГО\nКАК ТЫ ВООБЩЕ СУЩЕСТВУЕШЬ?! 🚛”,
+
+```
+"МИО ДИО, {name}! 😤🤌\nBALLERINA CAPPUCCINA танцует лучше тебя\nFRIGO CAMION думает быстрее тебя\nBOMBARDIRO CROCODILO красивее тебя\nДАЖЕ ВЗРЫВ BOMBOMBINI БОЛЕЕ ОСМЫСЛЕННЫЙ ЧЕМ ТЫ",
+
+"{name}, СЛУШАЙ ВНИМАТЕЛЬНО: 📢\nTRALALERO TRALALA пел для всех\nДля всех кроме тебя\nПотому что даже ТРАЛАЛА имеет стандарты\nА ТЫ ИМ НЕ СООТВЕТСТВУЕШЬ, ПРИДУРОК! 🎵",
+
+"СПЕЦИАЛЬНО ДЛЯ {name}: 💌\nBOMBARDIRO CROCODILO посвящает тебе бомбу\nТолько тебе\nС любовью\nПОТОМУ ЧТО ТЫ ЗАСЛУЖИЛ ИМЕННО ЭТО 🐊💣",
+
+"ОЙ {name}...\nDaже BOMBOMBINI GUSINI — случайный взрыв в интернете — осмысленнее тебя\nДаже FRIGO CAMION — грузовик с холодильником — теплее тебя в общении\nКТО ТЫ ВООБЩЕ ТАКОЙ?! 💥❄️",
+
+"{name}, ТЫ ЗНАЕШЬ В ЧЁМ ПРОБЛЕМА?\nTRALALERO TRALALA поёт ТРАЛАЛА\nEto хотя бы честно\nА ТЫ ПРОСТО СУЩЕСТВУЕШЬ\nИ ЭТО ЕДИНСТВЕННОЕ ЧТО ТЫ УМЕЕШЬ, ДЕБИЛ 🎵",
+```
+
 ]
 
 QUIZ_QUESTIONS = [
-    {
-        "question": "Kto takoy BOMBARDIRO CROCODILO? 🐊💣",
-        "options": ["Krokodil na samolyte", "Italyanskiy pevec", "Moy sosed", "Blyudo italyanskoy kuhni"],
-        "answer": "Krokodil na samolyte",
-    },
-    {
-        "question": "Chto delaet TRALALERO TRALALA? 🎵",
-        "options": ["Poet TRALA LALA", "Delaet piccу", "Vodit taksi", "Rabotaet buhgalterom"],
-        "answer": "Poet TRALA LALA",
-    },
-    {
-        "question": "FRIGO CAMION - eto... 🚛❄️",
-        "options": ["Gruzovyk-holodilnik", "Italyanskiy reper", "Poroda sobak", "Sort kofe"],
-        "answer": "Gruzovyk-holodilnik",
-    },
-    {
-        "question": "Chto pyot BALLERINA CAPPUCCINA? ☕💃",
-        "options": ["Cappuccino, cazzo!", "Borsh", "Vodku", "Motornoe maslo"],
-        "answer": "Cappuccino, cazzo!",
-    },
+{
+“question”: “Кто такой BOMBARDIRO CROCODILO? 🐊💣”,
+“options”: [“Крокодил на самолёте”, “Итальянский певец”, “Мой сосед”, “Блюдо итальянской кухни”],
+“answer”: “Крокодил на самолёте”,
+},
+{
+“question”: “Что делает TRALALERO TRALALA? 🎵”,
+“options”: [“Поёт ТРАЛАЛА”, “Делает пиццу”, “Водит такси”, “Работает бухгалтером”],
+“answer”: “Поёт ТРАЛАЛА”,
+},
+{
+“question”: “FRIGO CAMION - это… 🚛❄️”,
+“options”: [“Грузовик-холодильник”, “Итальянский рэпер”, “Порода собак”, “Сорт кофе”],
+“answer”: “Грузовик-холодильник”,
+},
+{
+“question”: “Что пьёт BALLERINA CAPPUCCINA? ☕💃”,
+“options”: [“Капучино, блять!”, “Борщ”, “Водку”, “Моторное масло”],
+“answer”: “Капучино, блять!”,
+},
+{
+“question”: “Italian Brainrot - это… 💀”,
+“options”: [
+“Вирусные мемы с итальянскими животными”,
+“Болезнь мозга”,
+“Итальянский сериал”,
+“Рецепт пасты”,
+],
+“answer”: “Вирусные мемы с итальянскими животными”,
+},
+{
+“question”: “Что происходит когда BOMBOMBINI GUSINI встречает тебя? 💥”,
+“options”: [“Взрывается от стыда”, “Обнимает тебя”, “Поёт серенаду”, “Варит пасту”],
+“answer”: “Взрывается от стыда”,
+},
 ]
