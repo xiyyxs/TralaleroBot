@@ -27,7 +27,7 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
-BOT_TOKEN = os.getenv("BOT_TOKEN", "ТВОЙ_ТОКЕН_СЮДА")
+BOT_TOKEN = os.getenv("BOT_TOKEN", "8600962133:AAHo42npu7NrAmsD9JKgYfCIXHoVX0OW-Zw")
 
 
 # ─── /start ────────────────────────────────────────────────────────────────────
